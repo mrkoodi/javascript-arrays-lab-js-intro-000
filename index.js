@@ -19,6 +19,6 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  return kittens.length = "kitten";
-
+return  kittens = kittens [...kittens, name];
+  
 }
