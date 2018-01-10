@@ -21,12 +21,12 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  
+
 
 }
 
 function prependKitten(name){
-  return shift('kitten');
+
 }
 
 function removeLastKitten() {
